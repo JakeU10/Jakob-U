@@ -4,12 +4,14 @@
   background-color: blue;
 }
 
-#left {
+.left {
   width: 70%;
   background-color:red;
+  float: left;
   }
 
-#right {
+.right {
   width: 30%
   background-color:white;
+  float: right;
 }

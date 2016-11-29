@@ -12,14 +12,14 @@
 
 .right {
   width: 70%;
-  background-color:#990033;
+  background-color:#cc3300;
   float: right;
   color: white;
 }
 .name {
   text-align:center;
   text-align:middle;
-  background-color:blue;
+  background-color:#000066;
   color:white;
 }
 @media screen and (max-width: 510px) {
